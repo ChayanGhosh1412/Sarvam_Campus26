@@ -1,0 +1,83 @@
+[
+  {
+    "invoice_number": "INV-2026-0881",
+    "invoice_date": "2026-10-02",
+    "due_date": "2026-10-20",
+    "vendor_name": "TechNova Cloud Infrastructure Ltd",
+    "vendor_tax_id": "27AABCT1234D1Z5",
+    "customer_name": "Apex Global Ventures Pvt Ltd",
+    "customer_tax_id": "29ABCDE5678F1Z9",
+    "expense_category": "IT Services",
+    "items": [
+      {
+        "description": "Enterprise Cloud Server Hosting (Quarterly)",
+        "hsn_sac_code": "998315",
+        "quantity": 1.0,
+        "unit_price": 50000.0,
+        "tax_rate_pct": 18.0,
+        "line_total": 50000.0
+      }
+    ],
+    "subtotal": 50000.0,
+    "cgst": 4500.0,
+    "sgst": 4500.0,
+    "igst": 0.0,
+    "total_tax": 9000.0,
+    "grand_total": 59000.0,
+    "currency": "INR"
+  },
+  {
+    "invoice_number": "INV-2026-1402",
+    "invoice_date": "2026-10-05",
+    "due_date": "2026-10-25",
+    "vendor_name": "Swift Logistics & Freight Corp",
+    "vendor_tax_id": "06AAACT9999K1Z2",
+    "customer_name": "Apex Global Ventures Pvt Ltd",
+    "customer_tax_id": "29ABCDE5678F1Z9",
+    "expense_category": "Logistics & Transport",
+    "items": [
+      {
+        "description": "Interstate Container Freight Handling",
+        "hsn_sac_code": "996511",
+        "quantity": 1.0,
+        "unit_price": 30000.0,
+        "tax_rate_pct": 18.0,
+        "line_total": 30000.0
+      }
+    ],
+    "subtotal": 30000.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 5400.0,
+    "total_tax": 5400.0,
+    "grand_total": 38000.0,
+    "currency": "INR"
+  },
+  {
+    "invoice_number": "INV-2026-7731",
+    "invoice_date": "2026-10-08",
+    "due_date": "2026-10-15",
+    "vendor_name": "Grand Palace Luxury Resort & Dining",
+    "vendor_tax_id": "24AABCR4444L1Z8",
+    "customer_name": "Apex Global Ventures Pvt Ltd",
+    "customer_tax_id": "29ABCDE5678F1Z9",
+    "expense_category": "Food & Dining / Catering",
+    "items": [
+      {
+        "description": "Executive Annual Dinner & Premium Catering Services",
+        "hsn_sac_code": "996331",
+        "quantity": 1.0,
+        "unit_price": 25000.0,
+        "tax_rate_pct": 18.0,
+        "line_total": 25000.0
+      }
+    ],
+    "subtotal": 25000.0,
+    "cgst": 2250.0,
+    "sgst": 2250.0,
+    "igst": 0.0,
+    "total_tax": 4500.0,
+    "grand_total": 29500.0,
+    "currency": "INR"
+  }
+]
